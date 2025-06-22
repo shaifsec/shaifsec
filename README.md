@@ -29,12 +29,12 @@
 
 ![Shaif's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaifali&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shaifali&theme=radical&border_radius=4.5)](https://git.io/streak-stats)
 
 ---
 
-## 📫 Connect With Me
+## 🚧 Platforms I'm Active On
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%2312100E?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shaifsec)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaifsec)  
 ✉️ Email: mdshaifali990@gmail.com  
 
