@@ -36,7 +36,7 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%2312100E?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shaifsec)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaifsec)  
-✉️ Email: mdshaifali990@gmail.com  
+✉️ Email: shaifsec@gmail.com  
 
 ---
 
