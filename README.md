@@ -17,7 +17,7 @@
 <h3 align="left">Tools</h3>
 <p align="left">
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://portswigger.net/cms/images/a0/fd/18ca-article-burp_in_the_community_blog_post_header.png" alt="Burp Suite" width="40" height="40"/>
+    <img src="https://portswigger.net/cms/images/a0/fd/18ca-article-burp_in_the_community_blog_post_header.png" alt="Burp Suite" width="70" height="70"/>
   </a>
   <a href="https://owasp.org/" target="_blank" rel="noreferrer">
     <img src="https://owasp.org/assets/images/OWASP_Logo.png" alt="OWASP" width="40" height="40"/>
