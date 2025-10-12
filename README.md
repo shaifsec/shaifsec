@@ -14,12 +14,28 @@
 - 💬 Ask me about bug bounties, ethical hacking, and web app security
 
 ---
-### Tools
-[![Burp Suite](https://portswigger.net/assets/images/portswigger-inset-logo.svg)](https://portswigger.net/burp)  
-[![OWASP](https://owasp.org/assets/images/OWASP_Logo.png)](https://owasp.org/)  
-[![Nmap](https://nmap.org/images/nmaplogo.png)](https://nmap.org/)  
-[![Nessus](https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/nessus-logo.png)](https://www.tenable.com/products/nessus)  
-[![Splunk](https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg)](https://www.splunk.com/)
+<h3 align="left">Tools</h3>
+<p align="left">
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://portswigger.net/assets/images/portswigger-inset-logo.svg" alt="Burp Suite" width="40" height="40"/>
+  </a>
+  <a href="https://owasp.org/" target="_blank" rel="noreferrer">
+    <img src="https://owasp.org/assets/images/OWASP_Logo.png" alt="OWASP" width="40" height="40"/>
+  </a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://nmap.org/images/nmaplogo.png" alt="Nmap" width="40" height="40"/>
+  </a>
+  <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
+    <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/nessus-logo.png" alt="Nessus" width="40" height="40"/>
+  </a>
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" width="40" height="40"/>
+  </a>
+  <a href="https://attack.mitre.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Mitre_ATTACK_logo.svg" alt="MITRE ATT&CK" width="80" height="40"/>
+  </a>
+</p>
+---
 
 <h3 align="left">Technology</h3>
 <p align="left">
