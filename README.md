@@ -1,6 +1,6 @@
 # Hi there, I'm Shaif Ali 👋
 
-🎯 A passionate **Cybersecurity Professional** with a sharp focus on the **offensive side** of security.  
+🎯 A passionate **Cybersecurity Professional** with a sharp focus on the **Offensive side** of security.  
 🔍 Currently working as a **Web Application Penetration Tester** — helping companies discover and patch vulnerabilities before the bad guys do.
 
 ---
@@ -14,17 +14,24 @@
 - 💬 Ask me about bug bounties, ethical hacking, and web app security
 
 ---
+### Tools
+[![Burp Suite](https://portswigger.net/assets/images/portswigger-inset-logo.svg)](https://portswigger.net/burp)  
+[![OWASP](https://owasp.org/assets/images/OWASP_Logo.png)](https://owasp.org/)  
+[![Nmap](https://nmap.org/images/nmaplogo.png)](https://nmap.org/)  
+[![Nessus](https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/nessus-logo.png)](https://www.tenable.com/products/nessus)  
+[![Splunk](https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg)](https://www.splunk.com/)
 
-## 🧰 Tools & Tech Stack
-
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OWASP](https://img.shields.io/badge/OWASP-000?style=for-the-badge&logo=owasp)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+### Technology
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/) 
+[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/) 
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/) 
+[![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)](https://www.gnu.org/software/bash/) 
+[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org) 
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/) 
+[![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)](https://git-scm.com/)
 
 ---
-
 ## 📈 GitHub Stats
 
 ![Shaif's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaifali&show_icons=true&theme=radical)
