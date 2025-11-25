@@ -65,11 +65,6 @@
 </p>
 
 ---
-## 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaifsec&show_icons=true&locale=en&layout=compact" alt="shaifsec" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaifsec&show_icons=true&locale=en" alt="shaifsec" /></p>
-
----
 
 ## 🚧 Platforms I'm Active On
 
