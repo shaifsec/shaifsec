@@ -20,19 +20,19 @@
     <img src="https://portswigger.net/cms/images/a0/fd/18ca-article-burp_in_the_community_blog_post_header.png" alt="Burp Suite" width="60" height="40"/>
   </a>
   <a href="https://owasp.org/" target="_blank" rel="noreferrer">
-    <img src="https://owasp.org/assets/images/logo.png" alt="OWASP" width="40" height="40"/>
+    <img src="https://owasp.org/assets/images/logo.png" alt="OWASP" width="60" height="40"/>
   </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://networkwalks.com/wp-content/uploads/2021/06/Nmap-practice-lab1.png" alt="Nmap" width="40" height="40"/>
+    <img src="https://networkwalks.com/wp-content/uploads/2021/06/Nmap-practice-lab1.png" alt="Nmap" width="60" height="40"/>
   </a>
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
-    <img src="https://training.totalcyber.com/wp-content/uploads/2022/05/nessuslogo-02-600x168.png" alt="Nessus" width="40" height="40"/>
+    <img src="https://training.totalcyber.com/wp-content/uploads/2022/05/nessuslogo-02-600x168.png" alt="Nessus" width="60" height="40"/>
   </a>
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vivantio.com/wp-content/uploads/2024-vivantio-integrations-cover-splunk-600x309.png" alt="Splunk" width="40" height="40"/>
+    <img src="https://www.vivantio.com/wp-content/uploads/2024-vivantio-integrations-cover-splunk-600x309.png" alt="Splunk" width="60" height="40"/>
   </a>
   <a href="https://attack.mitre.org/" target="_blank" rel="noreferrer">
-    <img src="https://blog.kaymera.com/hubfs/mitre-attack-card.jpg" alt="MITRE ATT&CK" width="40" height="40"/>
+    <img src="https://blog.kaymera.com/hubfs/mitre-attack-card.jpg" alt="MITRE ATT&CK" width="60" height="40"/>
   </a>
 </p>
 
